@@ -1,0 +1,82 @@
+# =================================================================
+# Visual Studio & C++ Gitignore Template
+# =================================================================
+
+# --- Visual Studio Temp & Cache Files ---
+.vs/
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+*.aps
+*.VC.db
+*.VC.opendb
+*.db
+*.sdf
+*.opensdf
+
+# --- Build Outputs (Katalogi wyjściowe kompilacji) ---
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+ARM/
+ARM64/
+bin/
+obj/
+out/
+build/
+
+# --- C++ Compiler & Linker Artifacts (Pliki tymczasowe kompilatora) ---
+*.obj
+*.o
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+*.exe
+*.exp
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.ipch
+*.res
+*.tlog
+*.lastbuildstate
+*.log
+*.recipe
+*.png
+*.jpg
+
+# --- CMake (Jeśli używasz CMake z Visual Studio) ---
+CMakeCache.txt
+CMakeFiles/
+CMakeOutput.log
+CMakeError.log
+CMakeLists.txt.user
+CMakePresets.json.user
+
+# --- Package Managers (Menedżery zależności) ---
+# vcpkg
+vcpkg_installed/
+# NuGet
+packages/
+*.nuget.props
+*.nuget.targets
+
+# --- Profiling, Diagnostics & Testing ---
+*.coverage
+*.coveragexml
+*.vgc
+*.vsp
+*.vspx
+*.codeanalysis
+
+# --- OS Specific Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
