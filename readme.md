@@ -28,9 +28,9 @@
 
 ### Apple Music-style player
 
-![Apple Music1](Images/apple_music1.png)
+![Apple Music1](Images/apple_music.png)
 
-![Apple Music2](Images/apple_music2_.png)
+![Apple Music2](Images/apple_music2.png)
 
 ### Unreal Editor-style layout
 
