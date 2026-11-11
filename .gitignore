@@ -51,6 +51,10 @@ build/
 *.recipe
 *.png
 *.jpg
+*.sln
+*.slnx
+*.vcxproj
+*.filters
 
 # --- CMake (Jeśli używasz CMake z Visual Studio) ---
 CMakeCache.txt
